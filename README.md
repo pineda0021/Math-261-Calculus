@@ -11,11 +11,7 @@
 <h3 align="center">Professor Edward Pineda-Castro, Los Angeles City College</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pineda0021/Math-261-Calculus/main/Picture.png" width="600"/>
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/pineda0021/Math-261/main/assets/math261-classroom.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/pineda0021/Math-261-Calculus/main/Picture.png" width="500"/>
 </p>
 
 <hr/>
