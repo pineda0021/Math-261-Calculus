@@ -88,10 +88,10 @@
     Explore how calculus powers optimization in AI using this interactive Python demo! It shows the tangent to a parabola and how its slope helps locate the minimum.
 </p>
 
-<p>
-    <a href="https://colab.research.google.com/github/pineda0021/Math-261/blob/main/notebooks/Optimization_Tangent_Demo.ipynb" target="_blank">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-    </a>
+<p align="center">
+  <a href="https://colab.research.google.com/github/pineda0021/Math-261-Calculus/blob/main/epsilon_delta_visualization.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
 </p>
 
 <p><em>💡 This visualization connects calculus with machine learning concepts like gradient descent!</em></p>
