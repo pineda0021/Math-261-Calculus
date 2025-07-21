@@ -25,7 +25,7 @@
     <li><strong>Textbook:</strong> <a href="https://math.libretexts.org/Courses/Los_Angeles_City_College/MATH_261%3A_Calculus_I" target="_blank">Calculus I (LibreTexts)</a></li>
     <li><strong>Author:</strong> Edward Pineda-Castro</li>
     <li><strong>Publisher:</strong> LibreTexts</li>
-    <li><strong>Published:</strong> July 28, 2023</li>
+    <li><strong>Published:</strong> June 05, 2025</li>
 </ul>
 
 <hr/>
@@ -67,25 +67,11 @@
 
 <hr/>
 
-<h2>🚀 Looking Ahead: Calculus for Data Science</h2>
-<p>
-    This course will give you the calculus foundation for understanding:
-</p>
-<ul>
-    <li><strong>Optimization</strong> – used in machine learning & AI</li>
-    <li><strong>Rates of Change</strong> – used in finance, physics, and epidemiology</li>
-    <li><strong>Accumulation</strong> – used in forecasting and logistics</li>
-</ul>
+<h2 align="center">🔍 Interactive Epsilon–Delta Visualization</h2>
 
 <p>
-    By mastering these concepts, you’ll be prepared to tackle advanced topics in data-driven fields.
-</p>
-
-<hr/>
-
-<h2>📊 Interactive Visualization: Optimization with Tangents</h2>
-<p>
-    Explore how calculus powers optimization in AI using this interactive Python demo! It shows the tangent to a parabola and how its slope helps locate the minimum.
+  Explore the formal definition of a limit using this interactive Python demo! You’ll use sliders to adjust <strong>ε (epsilon)</strong> and <strong>δ (delta)</strong> to see how they relate to the behavior of functions near a point.
+  This hands-on visualization will help you deeply understand what it means for a function to approach a limit — one of the most foundational ideas in Calculus.
 </p>
 
 <p align="center">
@@ -94,13 +80,27 @@
   </a>
 </p>
 
-<p><em>💡 This visualization connects calculus with machine learning concepts like gradient descent!</em></p>
-
 <hr/>
 
-<h3>👨🏽‍🏫 Professor Edward Pineda-Castro</h3>
+<h3>💡 Why This Visualization Matters</h3>
+
+<p>This course will give you the <strong>calculus foundation</strong> for understanding the mathematical backbone of data-driven disciplines. By mastering the concept of the heart of countless real-world applications, and it's one of the most powerful tools in your calculus toolbox:</p>
+
+<ul>
+  <li>🧠 <strong>Machine Learning</strong>: Optimization is used in <em>gradient descent</em> to train AI models.</li>
+  <li>📊 <strong>Simple Linear Regression</strong>: Calculus helps minimize errors when fitting models to data.</li>
+  <li>🎲 <strong>Probability Foundations</strong>: Used in likelihood estimation, decision trees, and risk modeling.</li>
+  <li>💼 <strong>Business</strong>: Maximize profit or minimize cost using real-world constraints.</li>
+  <li>🚗 <strong>Engineering</strong>: Design efficient systems, from car engines to bridges.</li>
+  <li>📦 <strong>Logistics</strong>: Optimize packaging, routes, or warehouse layouts.</li>
+</ul>
+
 <p>
-    <strong>Department of Mathematics</strong><br/>
-    <strong>Los Angeles City College</strong>
+  This visualization helps bridge the gap between math and its practical impact — and prepares you for the exciting future of <strong>data science, AI, and applied analytics</strong>.
 </p>
+<p>
+  With this knowledge, you’ll be ready to explore topics like <strong>gradient descent</strong>, <strong>neural networks</strong>, and <strong>statistical modeling</strong> — all of which depend on the ideas we begin exploring in <strong>Math 261</strong>.
+</p>
+
+<p><strong>Let’s begin this journey together — from foundational calculus to the frontiers of data science!</strong></p>
 
